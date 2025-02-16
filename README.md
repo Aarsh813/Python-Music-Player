@@ -46,4 +46,4 @@ A lightweight and interactive desktop music player built with Python, Pygame, an
 
 ---
 
-🔹 Built with ❤️ by [Your Name](https://github.com/Aarsh813)
+🔹 Built with ❤️ by [Aarsh](https://github.com/Aarsh813)
